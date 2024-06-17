@@ -19,10 +19,13 @@ Please check out my resume, and feel free to email me at joomee320@gmail.com.
 
 Strokes are a pervasive and oftentimes fatal condition that affects millions of people around the world. Predicting strokes based on various biomarkers and risk factors gives significant insights for prevention and early intervention. This study aims to develop machine learning models to accurately predict strokes with a dataset containing 15 features and more than 4,000 entries. We performed exploratory data analysis and implemented three machine learning algorithms: K-Nearest Neighbors, Support Vector Machine, and Random Forest Classification. These models were trained on 70% of the data and tested on the remaining 30% data, with hyperparameter tuning using GridSearchCV. The best model had an accuracy of about 0.86 on the test set. Analyzing the features revealed that age, blood pressure, glucose, BMI, and cholesterol were the most significant predictors for strokes. These findings align well with the current medical knowledge and can potentially guide healthcare professionals. However, the models suffered in precision and recall, indicating that they must be improved before any potential use in the industry.
 
-link at the github repository 
+@link at the github repository 
 
 
 #### Predictive Models for Diagnosing PCOS 
+Polycystic ovary syndrome (PCOS) is a hormonal disorder among women of reproductive age worldwide. 
+In spite of PCOS being the most common endocrinopathy affecting 8% to 13% of reproductive aged women, the primary challenge in managing PCOS lies in its diagnosis and identifying the risk factors due to its heterogeneous nature and the overlap of its symptoms with other health conditions mentioned above. 
+Therefore, for our project, our primary objective is to develop concrete predictive models that can help researchers and healthcare professionals to diagnose PCOS and predict its risk factors. 
 
 
 
