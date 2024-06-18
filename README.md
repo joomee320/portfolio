@@ -35,6 +35,7 @@ Therefore, for our project, our primary objective is to develop concrete predict
 Maze Game is a Java-developed game that incorporates Kruskal's algorithm to generate a unique maze layout for each session, ensurng a non-reptitive and engaging experience. MazeGame intgrates both breath-first search (BFS) and depth-first search (DFS) algorithms, offering efficient solutions for maze traversal and demonstrating advanced problem-solving techniques through graphical representation. Users are allowed to press 'b' for BFS traversal and 'd' for DFS traversal if they find the maze challenging. 
 
 Here's a short demo of my project in action:
+
 <img src="/assets/videos/maze.gif" width="300">
 
 #### Reversi 
@@ -43,10 +44,11 @@ Here's a short demo of my project in action:
 Reversi is a Java-based desktop strategy board game featuring a hexagonal grid for two players with black and white game pieces. The game includes a sophisticated AI opponent and a user-friendly interface for human players. The AI employs a robust strategy pattern algorithm that adapts to and challenges the human player's tactics throughout gameplay. Utilizing Java Swing, Reversi offers a visually engaging game board with interactive black and white pieces, ensuring an immersive and dynamic gaming experience.
 
 Here's a short demo of my project in action:
+
 <img src="/assets/videos/reversi.gif" width="300">
 
 
 
 ### Get In Touch
-- **LinkedIn:** [www.linkedin.com/in/joomeechoi]
+- **LinkedIn:** www.linkedin.com/in/joomeechoi
 - **Email:** joomee320@gmail.com
