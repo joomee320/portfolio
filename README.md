@@ -1,6 +1,4 @@
-# Joomee Choi
-
-![Profile Picture](/assets/img/heatshot.jpg)
+![Profile Picture](/assets/img/headshot.jpg)
 
 ### Introduction
 Hi, I am Junior at Northeastern University, pursuing a dual major in Computer Sciece and Design. I am passionate about user experience, user interaction, and data analysis. 
