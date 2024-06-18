@@ -34,10 +34,8 @@ Therefore, for our project, our primary objective is to develop concrete predict
 Maze Game is a Java-developed game that incorporates Kruskal's algorithm to generate a unique maze layout for each session, ensurng a non-reptitive and engaging experience. MazeGame intgrates both breath-first search (BFS) and depth-first search (DFS) algorithms, offering efficient solutions for maze traversal and demonstrating advanced problem-solving techniques through graphical representation. Users are allowed to press 'b' for BFS traversal and 'd' for DFS traversal if they find the maze challenging. 
 
 Here's a short demo of my project in action:
-<video width="600" controls>
-  <source src="/assets/videos/maze.mov" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+<img src="/assets/videos/maze.gif" width="600">
 
 #### Reversi 
 *Java*
